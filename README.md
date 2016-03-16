@@ -16,12 +16,12 @@ We will use a command line to run the script, passing the webpage to check as a 
 Here are some examples that we will run your script against, so be sure to try these out and verify that they
 work as expected:
 
-    $ php datanyze_job_interview.php google.com
-    $ php datanyze_job_interview.php http://www.google.com
-    $ php datanyze_job_interview.php http://facebook.com
-    $ php datanyze_job_interview.php http://www.datanyze.com
-    $ php datanyze_job_interview.php www.datanyze.com
-    $ php datanyze_job_interview.php datanyze.com
+    $ php checker.php google.com
+    $ php checker.php http://www.google.com
+    $ php checker.php http://facebook.com
+    $ php checker.php http://www.datanyze.com
+    $ php checker.php www.datanyze.com
+    $ php checker.php datanyze.com
 
 For each input, your output should be:
 
